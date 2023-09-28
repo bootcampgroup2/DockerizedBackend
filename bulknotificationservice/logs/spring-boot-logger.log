@@ -142,3 +142,4 @@
 2023-09-28 14:44:45,976 INFO org.apache.kafka.clients.Metadata [kafka-producer-network-thread | producer-1] [Producer clientId=producer-1] Cluster ID: anGdAkFKROO3gDUMgjWzhw
 2023-09-28 14:44:45,979 INFO org.apache.kafka.clients.producer.internals.TransactionManager [kafka-producer-network-thread | producer-1] [Producer clientId=producer-1] ProducerId set to 1 with epoch 0
 2023-09-28 14:44:46,040 INFO com.controller.BulkNotificationController [http-nio-8085-exec-2] Bulk notification has been send to all users related to sales
+2023-09-28 14:45:28,166 INFO com.controller.BulkNotificationController [http-nio-8085-exec-4] Bulk notification has been send to all users related to sales

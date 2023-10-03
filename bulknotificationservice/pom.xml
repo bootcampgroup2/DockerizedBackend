@@ -65,7 +65,9 @@
                </execution>
            </executions>
        </plugin>
+       
 		</plugins>
+		<finalName>sb_docker_app</finalName>
 	</build>
 
 </project>
